@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[62319,["/PsicoAby/_next/static/chunks/7f12eb260c75b41f.js","/PsicoAby/_next/static/chunks/5f873f405f6cfd84.js","/PsicoAby/_next/static/chunks/c0d612bafec4c097.js"],"default"]
+3:I[94489,["/PsicoAby/_next/static/chunks/7f12eb260c75b41f.js","/PsicoAby/_next/static/chunks/5f873f405f6cfd84.js","/PsicoAby/_next/static/chunks/c0d612bafec4c097.js"],"default"]
+4:I[56691,["/PsicoAby/_next/static/chunks/7f12eb260c75b41f.js","/PsicoAby/_next/static/chunks/5f873f405f6cfd84.js","/PsicoAby/_next/static/chunks/c0d612bafec4c097.js"],"default"]
+5:I[97367,["/PsicoAby/_next/static/chunks/ff1a16fafef87110.js","/PsicoAby/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"buildId":"h1Kp_ARiWrJzi1l3JZ0ra","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background","children":[["$","$L2",null,{}],["$","div",null,{"className":"pt-32","children":["$","$L3",null,{}]}],["$","$L4",null,{}]]}],[["$","script","script-0",{"src":"/PsicoAby/_next/static/chunks/5f873f405f6cfd84.js","async":true}],["$","script","script-1",{"src":"/PsicoAby/_next/static/chunks/c0d612bafec4c097.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null
